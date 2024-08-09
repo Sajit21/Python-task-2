@@ -1,3 +1,5 @@
+
+#use of the funtion with multiple output
 #return with multiple output
 
 def myfun(name1,name2):

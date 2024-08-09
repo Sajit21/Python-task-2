@@ -1,3 +1,7 @@
+
+#here we done the nested list and dictionary
+
+
 #dictionary
 mydata={"ram":"he is a male ",
         "sita":"she is a female"}

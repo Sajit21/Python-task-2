@@ -3,9 +3,9 @@
 #return with multiple output
 
 def myfun(name1,name2):
-    nam1=name1.title()
+    nam1=name1.title()  #title() make first letter of each word in uppercase
     nam2=name2.title()
-    return f"{nam1} and  {nam2}"
+    return f"{nam1} and  {nam2}"  #return the value in string format 
 
 #confused whether we can pass directly the value to the argument 
 hero=myfun("sajit","hari")

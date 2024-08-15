@@ -1,4 +1,4 @@
-
+#a 2ns part starting for python task
 
 #here we have to display fizz if the number is divisible by 3 ,if divisible by 5 then display buzz and if divisible by both 3 and 5 then display fizz buzz
 #here we learned about the range where we started from 1 to the last. we incremented by 1 since last value should be displayed and we gapped the valued by 2
